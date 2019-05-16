@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "slides-topic",
+  "name": "slides-kottans-chernivtsi-2019-react-continued-part-2",
   "version": "0.0.0",
-  "description": "Slides for my talk about Topic",
+  "description": "Slides for 2nd part of my talk about React for Kottans Chernivtsi Frontend Course 2019",
   "main": "index.html",
   "scripts": {
     "start": "http-server"
